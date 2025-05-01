@@ -4,7 +4,7 @@
 </p>
 
 <!-- Subtitle -->
-<h3 align="center">A passionate Back-end developer from Sri Lanka</h3>
+<h3 align="center">"I'm a passionate Back-End Developer with practical experience in building reliable, scalable server-side applications using Java, PostgreSQL, and MySQL. I specialize in developing clean, efficient APIs and robust systems that support modern web and mobile applications. Continuously eager to learn and adopt new technologies to sharpen my back-end development expertise."</h3>
 
 <!-- Profile views -->
 <p align="center"> 
