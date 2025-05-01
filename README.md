@@ -4,7 +4,9 @@
 </p>
 
 <!-- Subtitle -->
-<h3 align="center">"I'm a passionate Back-End Developer with practical experience in building reliable, scalable server-side applications using Java, PostgreSQL, and MySQL. I specialize in developing clean, efficient APIs and robust systems that support modern web and mobile applications. Continuously eager to learn and adopt new technologies to sharpen my back-end development expertise."</h3>
+<p align="center" style="font-size:14px; font-weight:normal; max-width:700px; margin:auto;">
+  I'm a passionate Back-End Developer with practical experience in building reliable, scalable server-side applications using Java, PostgreSQL, and MySQL. I specialize in developing clean, efficient APIs and robust systems that support modern web and mobile applications. Continuously eager to learn and adopt new technologies to sharpen my back-end development expertise.
+</p>
 
 <!-- Profile views -->
 <p align="center"> 
