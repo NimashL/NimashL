@@ -68,7 +68,7 @@
 ---
 ## 🗂️ Portfolio
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-purple?style=for-the-badge&logo=web&logoColor=white" /></a>
 </p>
 ---
