@@ -33,6 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+</p>
+
+### 🧰 Others
+<p align="left">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
@@ -40,25 +45,30 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimashl&show_icons=true&theme=radical" alt="nimashl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimashl&show_icons=true&theme=react&locale=en" alt="nimashl" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashl&theme=react" alt="nimashl" height="150"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:lakshithanimash22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/lakshitha pathiranage" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <a href="https://linkedin.com/in/lakshitha pathiranage" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lakshithanimash22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 🗂️ Portfolio
+### 🏆 GitHub Profile Trophy
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-purple?style=for-the-badge&logo=web&logoColor=white" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nimashl&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
